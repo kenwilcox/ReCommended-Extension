@@ -1,6 +1,6 @@
-# <img src="Images/Icon.png" width="32" height="32" /> ReCommended Extension for ReSharper [![ReSharper Extension](https://img.shields.io/resharper/v/Prodot.ReCommendedExtension.svg?label=ReSharper%20Extension)](https://plugins.jetbrains.com/plugin/11646-recommended-extension-for-resharper)
+# <img src="Images/Icon.png" width="32" height="32" /> ReCommended Extension for ~~ReSharper~~ Rider [![ReSharper Extension](https://img.shields.io/resharper/v/Prodot.ReCommendedExtension.svg?label=ReSharper%20Extension)](https://plugins.jetbrains.com/plugin/11646-recommended-extension-for-resharper)
 
-The ReCommended Extension for ReSharper augments the sophisticated code analysis engine by providing more rules not (yet) available from JetBrains. Among the most interesting features are
+The ReCommended Extension for ~~ReSharper~~ Rider augments the sophisticated code analysis engine by providing more rules not (yet) available from JetBrains. Among the most interesting features are
 
 - detection of redundant assertions,
 - inappropriate use of `async void`,
@@ -36,3 +36,8 @@ To install the ReCommended Extension use the ReSharper's Extension Manager.
 # Bugs? Questions? Suggestions?
 
 Please feel free to [report them](https://github.com/prodot/ReCommended-Extension/issues).
+
+# TODO
+
+https://rider-support.jetbrains.com/hc/en-us/articles/115001610564-How-to-repack-ReSharper-extension-to-Rider-plugin
+
